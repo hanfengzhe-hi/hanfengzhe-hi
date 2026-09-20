@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hanfengzhe-hi
 - 👀 I’m interested in Ceph, C++, algorithm.
 - 🌱 I’m currently learning Ceph, algorithm.
-- 💞️ I work for HUAWEI and EVOC.
+- 💞️ I work on SDS(Software define Storage).
 
 <!---
 hanfengzhe-hi/hanfengzhe-hi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
